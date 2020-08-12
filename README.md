@@ -3,7 +3,7 @@
 Here is where I keep the core of my large and small computing projects.
 
 
-- 🔭 I’m currently working on Skywave Linux
+- 🔭 I’m currently working on [Skywave Linux] and [MOFO Linux], as well as writing content for [AB9IL.net].
 - 🌱 I’m currently learning how to apply Python, Go, and Bash programming in software defined radio and data science.
 - 💬 Ask me about radio; been a licensed ham since 1978 and commercially licensed since the early 2000s.
 - 💬 Ask me about aviation; been a licensed pilot since 1985.  Type rated and experienced Boeing 767, 757, and 737 captain.  By the way, the airline industry is in terrible condition - a rust belt industry dressed in shiny aluminum and glass.
@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+<br />
+
+[AB9IL.net]: https://www.ab9il.net
+[Skywave Linux]: https://skywavelinux.com
+[MOFO Linux]: https://mofolinux.com
