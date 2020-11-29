@@ -8,7 +8,7 @@ Here is where I keep the core of my large and small computing projects.
 - 💬 Ask me about radio; been a licensed ham since 1978 and commercially licensed since the early 2000s.
 - 💬 Ask me about aviation; been a licensed pilot since 1985.  Type rated and experienced Boeing 767, 757, and 737 captain.  By the way, the airline industry is in terrible condition - a rust belt industry dressed in shiny aluminum and glass.  Run like hell if you can.
 - 📫 How to reach me: Right here on Github.
-- ⚡ Fun fact: I collect pictures of pigeons.  If I'm ever having a bad day, I think of the pigeons and how there's a place in the world for even the lowliest of creatures.  If they have a place, then so do I (and so do you).
+- ⚡ Fun fact: I collect pictures of pigeons.  If I'm ever having a bad day, I think of the pigeons and how there's a place in the world for even the lowliest of creatures.  If they have a place, then so do I (and so do you).  Matthew chapter 6.
 
 <!--
 **AB9IL/AB9IL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
