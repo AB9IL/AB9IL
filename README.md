@@ -10,7 +10,8 @@ Here is where I keep the core of my large and small computing projects.
 - 📫 How to reach me: Right here on Github.
 - ⚡ Fun fact: I collect pictures of pigeons.  If I'm ever having a bad day, I think of the pigeons and how there's a place in the world for even the lowliest of creatures.  If they have a place, then so do I (and so do you).  Matthew chapter 6.
 
-[![Setting up a Rofi / fzf internet radio streamer.](doc/screenshot_youtube_1.png)](https://youtu.be/watch?v=euHLtJu9W6Y "Setting up a Rofi / fzf internet radio streamer.")
+Video - Setting up a Rofi / fzf radio streamer:
+[![Setting up a Rofi / fzf internet radio streamer.](screenshot_youtube_1.png)](https://youtu.be/watch?v=euHLtJu9W6Y "Setting up a Rofi / fzf internet radio streamer.")
 
 <!--
 **AB9IL/AB9IL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
