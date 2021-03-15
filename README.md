@@ -14,6 +14,11 @@ Video - Setting up a Rofi / fzf radio streamer:
 
 [![Setting up a Rofi / fzf internet radio streamer.](screenshot_youtube_1.png)](https://youtu.be/watch?v=euHLtJu9W6Y "Setting up a Rofi / fzf internet radio streamer.")
 
+
+Video - Skywave Linux 4.1 features, bugfixes, rants:
+
+[![Skywave Linux 4.1 features, bugfixes, rants.](screenshot_youtube_2.png)](https://youtu.be/watch?v=YBkglgFf8MU "Skywave Linux 4.1 features, bugfixes, rants.")
+
 <!--
 **AB9IL/AB9IL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
