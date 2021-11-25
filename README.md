@@ -1,4 +1,4 @@
-### Welcome to My Git World 👋
+### Welcome to the Git World of Philip Collier 👋
 
 Here is where I keep the core of my large and small computing projects.
 
