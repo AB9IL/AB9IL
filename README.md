@@ -9,6 +9,7 @@ Here is where I keep the core of my large and small computing projects.
 - 💬 Ask me about radio; been a licensed ham since 1978 [callsigns KA3BVX, KG2DH, AB9IL] and commercially licensed since the early 2000s.
 - 💬 Ask me about aviation; been a licensed pilot since 1985.  Type rated and experienced Boeing 767, 757, and 737 captain.  By the way, the airline industry is in terrible condition - a rust belt industry dressed in shiny aluminum and glass.  Run like hell if you can.
 - 📫 How to reach me: Right here on Github.
+- :shit: Did you know that 1 out of 3 [pro Trump seditionists] is as dumb as the other 2?
 - ⚡ Fun fact: Some people relax with music, others enjoy art.  A few abuse substances.  I collect pictures of pigeons.  If I'm ever having a bad day, I think of the pigeons and how there's a place in the world for even those little, but magnificent, creatures.  If they have a place, then so do I (and so do you).  Matthew chapter 6.
 
 Video - Setting up a Rofi / fzf radio streamer:
@@ -20,21 +21,6 @@ Video - Skywave Linux 4.1 features, bugfixes, rants:
 
 [![Skywave Linux 4.1 features, bugfixes, rants.](screenshot_youtube_2.png)](https://youtu.be/watch?v=YBkglgFf8MU "Skywave Linux 4.1 features, bugfixes, rants.")
 
-<!--
-**AB9IL/AB9IL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- :angry: A stern admonition ...
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <br />
 <br />
 
@@ -45,3 +31,4 @@ Here are some ideas to get you started:
 [Skywave Linux]: https://skywavelinux.com
 [Catbird Linux]: https://catbirdlinux.com
 [MOFO Linux]: https://mofolinux.com
+[pro Trump seditionists]: https://youtu.be/sDF-UIr-waI
