@@ -27,8 +27,8 @@ Video - Skywave Linux 4.1 features, bugfixes, rants:
 [AB9IL.net]: https://www.ab9il.net
 [study and test taking skills]: https://tinyurl.com/4bmad829
 [Mach 7 Radio Intercepts]: https://youtube.com/user/AB9IL
-[KiwiSDR]: https://tinyurl.com/kiwisdr01
-[RTL-SDRs for airband]: https://tinyurl.com/rtlsdr01
+[KiwiSDR for online shortwave radio]: https://tinyurl.com/kiwisdr01
+[RTL-SDRs for airband radio]: https://tinyurl.com/rtlsdr01
 [Skywave Linux]: https://skywavelinux.com
 [Catbird Linux]: https://catbirdlinux.com
 [MOFO Linux]: https://mofolinux.com
