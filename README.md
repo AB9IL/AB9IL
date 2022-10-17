@@ -4,7 +4,7 @@ Here is where I keep the core of my large and small computing projects.
 
 - :angry: If you haven't already, expedite your ass out for your vaccinations.  Wear a fookin' mask.  Stay alive and don't infect _me_.
 - 🔭 I’m currently working on [Skywave Linux], [Catbird Linux], and [MOFO Linux], plus creating content for [AB9IL.net] and [Mach 7 Radio Intercepts].
-- 👯 I am writing handbooks on [SDRs for airband], [study and test taking skills], and other topics.
+- 👯 I am writing handbooks on [KiwiSDR], [RTL-SDRs for airband], [study and test taking skills], and other topics.
 - 🌱 I’m currently learning how to apply Python, Go, and Bash programming in software defined radio and data science.
 - 💬 Ask me about radio; been a licensed ham since 1978 [callsigns KA3BVX, KG2DH, AB9IL] and commercially licensed since the early 2000s.
 - 💬 Ask me about aviation; been a licensed pilot since 1985.  Type rated and experienced Boeing 767, 757, and 737 captain.  By the way, the airline industry is in terrible condition - a rust belt industry dressed in shiny aluminum and glass.  Run like hell if you can.
@@ -25,9 +25,10 @@ Video - Skywave Linux 4.1 features, bugfixes, rants:
 <br />
 
 [AB9IL.net]: https://www.ab9il.net
-[study and test taking skills]: https://amzn.to/3ExUfkK
+[study and test taking skills]: https://tinyurl.com/4bmad829
 [Mach 7 Radio Intercepts]: https://youtube.com/user/AB9IL
-[SDRs for airband]: https://amzn.to/3w8y95j
+[KiwiSDR]: https://tinyurl.com/kiwisdr01
+[RTL-SDRs for airband]: https://tinyurl.com/rtlsdr01
 [Skywave Linux]: https://skywavelinux.com
 [Catbird Linux]: https://catbirdlinux.com
 [MOFO Linux]: https://mofolinux.com
