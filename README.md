@@ -32,4 +32,4 @@ Video - Setting up a Rofi / fzf radio streamer:
 [Skywave Linux]: https://skywavelinux.com
 [Catbird Linux]: https://catbirdlinux.com
 [MOFO Linux]: https://mofolinux.com
-[pro Trump seditionists]: https://youtu.be/sDF-UIr-waI
+[pro Trump seditionists]: https://odysee.com/@Mach7RadioIntercepts:1/january-6-a-coup-unpunished-is-called:2
