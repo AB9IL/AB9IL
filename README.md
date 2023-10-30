@@ -2,7 +2,7 @@
 
 Here is where I keep the core of my large and small computing projects.
 
-- 🔭 I’m currently working on [Skywave Linux], a bootable live Linux environment for global and borderless access to over the airwaves broadcast media.
+- 🔭 I’m currently working on [Skywave Linux], a bootable live Linux environment for global and borderless access to over the air broadcast media.
 - 🔭 I’m currently working on [Catbird Linux], a bootable live Linux environment for web scraping, data analysis, writing, note taking, and content creation.
 - 🔭 I’m currently working on [MOFO Linux], a bootable live Linux environment for global and borderless access to multimedia, forums, and cypher spaces.
 - 🔭 I’m currently creating written content for [AB9IL.net] and videos for [Mach 7 Radio Intercepts].
