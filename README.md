@@ -3,7 +3,7 @@
 Here is where I keep the core of my large and small computing projects.
 
 - 🔭 I’m currently working on [Skywave Linux], a bootable live Linux environment for global and borderless access to over the air broadcast media.
-- 🔭 I’m currently working on [Catbird Linux], a bootable live Linux environment for web scraping, data analysis, writing, note taking, and content creation.
+- 🔭 I’m currently working on [Catbird Linux], a bootable live Linux environment for content creation, web scraping, data analysis, writing, and note taking.
 - 🔭 I’m currently working on [MOFO Linux], a bootable live Linux environment for global and borderless access to multimedia, forums, and cypher spaces.
 - 🔭 I’m currently creating written content for [AB9IL.net] and videos for [Mach 7 Radio Intercepts].
 - 👯 I am writing about [KiwiSDR for online shortwave radio], [RTL-SDRs for airband radio], plus [defeating censorship and information warfare].
@@ -11,11 +11,10 @@ Here is where I keep the core of my large and small computing projects.
 - 💬 Ask me about radio; been a licensed ham since 1978 [callsigns KA3BVX, KG2DH, AB9IL] and commercially licensed since the early 2000s.
 - 💬 Ask me about aviation; been a licensed pilot since 1985.  Type rated and experienced Boeing 767, 757, and 737 captain.  By the way, the airline industry is in terrible condition - a rust belt industry dressed in shiny aluminum and glass.  Run like hell if you can.
 - 📫 How to reach me: Right here on Github.
-- :shit: Did you know that one out of three [Trumpist seditionists] is as dumb as the other two? He is going to jail, not ever back to the White House. Deal with it.
-- ⚡ Fun fact: Some people relax with music, others enjoy art.  A few abuse substances.  I collect pictures of pigeons.  If I'm ever having a bad day, I think of the pigeons and how there's a place in the world for even those little, but magnificent, creatures.  If they have a place, then so do I (and so do you).  Matthew chapter 6.
+- ⚡ Fun fact: Some people relax with music, others enjoy art.  A few abuse substances.  I collect pictures of pigeons.  If I'm ever having a bad day, I go for a stroll in the nearest park, feed a few pigeons and reflect on how there's a place in the world for even those magnificent little creatures.  If they have a place, then so do I (and so do you).  Matthew chapter 6.
 
 
-Video - Skywave Linux 5.0 - Rolling Debian Sid - Linux for SWLs and Hams:
+Video - Skywave Linux 5 - Rolling Debian Sid - Linux for SWLs and Hams:
 
 [![Skywave Linux 5.0 - Rolling Debian Sid - Linux for SWLs and Hams](screenshot_youtube_4.png)](https://youtu.be/odTHnpM9Srg "Skywave Linux 5.0 - Rolling Debian Sid - Linux for SWLs and Hams")
 
